@@ -30,7 +30,7 @@ php artisan migrate
 php aritsan db:seed
 ```
 
-All the logs would be generated in the database using Factory when seeder has run
+1000 dummy logs would be generated in the database using Factory when seeder has run
 
 Run the `php artisan calculate:statistics` to cache the stats
 
